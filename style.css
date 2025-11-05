@@ -2489,7 +2489,7 @@ li {
    ============================================ */
 
 [data-aos] {
-  opacity: 0;
+  opacity: 1;
   transition-property: opacity, transform;
   transition-duration: var(--transition-slow);
   transition-timing-function: var(--ease-out);
